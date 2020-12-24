@@ -1,4 +1,4 @@
-real2fake
+fake_news_analysis
 ===
 
 This repo is for analyzing the human-subject test data. 
